@@ -1,4 +1,7 @@
+Recreating a responsive component ( Grid ) in React using Styled-Components and Flexbox
 
+#Basics of styled-componets and using it to create dynamic styles
+#exploring the use cases of flexbox
 
 ## Available Scripts
 
