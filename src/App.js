@@ -20,7 +20,11 @@ const App = () => {
        <Col size ={1}>
         you!
        </Col>
+       <Col size={1} collapse="xs">
+         See if it Collapses
+       </Col>
      </Row>
+
      </Grid>
     </div>
   );
